@@ -1,0 +1,12 @@
+name: DoubleArrows
+main: nyxana.doublearrows.DoubleArrows
+version: ${project.version}
+description: Double Arrows plugin by Nyxana.
+author: Nyxana
+commands:
+  doublearrows:
+    permission: doublearrows.*
+    description: Double Arrows command
+permissions:
+  doublearrows.*:
+    description: Gives you permission to perform all doublearrows commands!
